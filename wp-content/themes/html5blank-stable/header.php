@@ -35,7 +35,7 @@
 					<div class="logo">
 						<a href="<?php echo home_url(); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
+							<img src="http://192.168.33.15/wp-content/uploads/2017/01/top-dawg-ent-logo.jpg" alt="Logo" class="logo-img" width=350px>
 						</a>
 					</div>
 					<!-- /logo -->
