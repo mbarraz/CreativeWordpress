@@ -3,6 +3,7 @@
 	<main role="main">
 		<!-- section -->
 		<section>
+			<body background="http://192.168.33.15/wp-content/uploads/2017/01/KennyLamLam1.jpg">
 
 			<h1><?php the_title(); ?></h1>
 
